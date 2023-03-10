@@ -7,10 +7,26 @@
 <p> This project is inspired by the many different YouTube downloaders out in the web. This allows users to watch YouTube videos without watching any advertisements and also for users to save any video they may find interesting which may be removed after a while. </p>
 <p> Some examples of other YouTube downloaders include y2mate and savetonet. However, some of these sites may contain viruses that may infect your computer. This project is made using a python module which has been tested and no viruses have been detected.</p>
 
-<h3> Installation of module </h3>
-<p> To install the modules used by this code, install the following modules by entering them into your shell or command prompt: </p>
-```python
+<h3> Installation of modules </h3>
+<p> To install the modules used by this code, install the following modules by entering them into your shell or command prompt one at a time: </p>
+
+
+```
 pip install pytube
 pip install youtube-search
 pip install colorama
 ```
+
+<h3> How to use this project </h3>
+<p>At first, you will be directed to the credits screen. Press enter to access the next screen. You will then be prompted to enter your choice of retriveing the video link (by searching for the video or directly entering the link of the video).</p>
+<p> If you wish to enter the link, copy and paste the link (with the prefix youtube.com and not google.com) into the program and let it run. If you are using the program on my repl on Replit, you should find it under "Files" on the sidebar after you run the program. </p>
+<p> If you choose to search for the video, enter the name of the video or keywords of the video that you want to download and enter the number of your option from the list given. The link will then be retrived from there and the video will be downloaded and will appear in "Files" on the sidebar if you are using my repl on Replit. </p>
+
+<h3> How the program works </h3>
+<p>The program retrieves the link of the video you want to download and from either directly from the user or from the YouTube search module after the user has picked the video they want to download. The video link is then sent to the pytube module where it is passed into a class and converted into a video. The first stream will then be picked as the video to download and then converted into the mp4 file format before it is downloaded. </p>
+
+<p>The actual functionality of this program depends on the compiler you are using and may not work on other compilers as the module files on Replit may be different from that of other compilers. This code was built and meant for Replit, and also please give my project a try on my Replit page. </p>
+
+<p>Please feel free to email me at isaackhongjw@gmail.com should you have any issues on the code on Replit. </p>
+
+<h3>
