@@ -29,4 +29,14 @@ pip install colorama
 
 <p>Please feel free to email me at isaackhongjw@gmail.com should you have any issues on the code on Replit. </p>
 
-<h3>
+<h3> Contact Details </h3>
+<p>To contact me over some possible errors made during either the release of this program on GitHub, Replit or any other site, general errors in the code or some general feedback, please contact me at isaackhongjw@gmail.com. Any help or feedback will be appreciated. Thank you! </p>
+
+<h3> Copyright Notice </h3>
+Copyright (C) 2023 Isaac Khong
+
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this program.  If not, see <http://www.gnu.org/licenses/>.
