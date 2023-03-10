@@ -30,7 +30,7 @@ pip install colorama
 <p>Please feel free to email me at isaackhongjw@gmail.com should you have any issues on the code on Replit. </p>
 
 <h3> Contact Details </h3>
-<p>To contact me over some possible errors made during either the release of this program on GitHub, Replit or any other site, general errors in the code or some general feedback, please contact me at isaackhongjw@gmail.com. Any help or feedback will be appreciated. Thank you! </p>
+<p>To contact me over some possible errors made during either the release of this program on GitHub, Replit or any other site, general errors in the code or some general feedback, please contact me at isaackhongjw@gmail.com or create a new issue on another page on this repo in GitHub. Any help or feedback will be appreciated. Thank you! </p>
 
 <h3> Copyright Notice </h3>
 Copyright (C) 2023 Isaac Khong
